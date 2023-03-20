@@ -1,0 +1,6 @@
+﻿  glad.c
+  main.cpp
+H:\Visual\OpenGL_Tutorial_Camera\OpenGL_Tutorial\main.cpp(262,39): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  stb_image.cpp
+  Generowanie kodu...
+  OpenGL_Tutorial.vcxproj -> H:\Visual\OpenGL_Tutorial_Camera\x64\Debug\OpenGL_Tutorial.exe
